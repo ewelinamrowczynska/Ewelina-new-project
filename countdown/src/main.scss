@@ -25,6 +25,7 @@ body {
   align-items: center;
   background-color: rgba(0, 0, 0, .4);
   color: antiquewhite;
+  padding-bottom: 2rem;
 
   h1 {
     font-family: 'Great Vibes', cursive;
@@ -43,7 +44,7 @@ body {
     .timeBox {
       margin: 0 .5em;
       width: 10vw;
-      color: black;
+      color: antiquewhite;
       background: linear-gradient(#9198e5, #bc4d8a);
       display: flex;
       flex-direction: column;

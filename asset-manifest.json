@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/The_final_countdown/static/css/main.8dc16956.css",
+    "main.css": "/The_final_countdown/static/css/main.e8b4d900.css",
     "main.js": "/The_final_countdown/static/js/main.0e219508.js",
     "static/media/chocolate.jpg": "/The_final_countdown/static/media/chocolate.08bf3d80a4f0c0810783.jpg",
     "index.html": "/The_final_countdown/index.html",
-    "main.8dc16956.css.map": "/The_final_countdown/static/css/main.8dc16956.css.map",
+    "main.e8b4d900.css.map": "/The_final_countdown/static/css/main.e8b4d900.css.map",
     "main.0e219508.js.map": "/The_final_countdown/static/js/main.0e219508.js.map"
   },
   "entrypoints": [
-    "static/css/main.8dc16956.css",
+    "static/css/main.e8b4d900.css",
     "static/js/main.0e219508.js"
   ]
 }

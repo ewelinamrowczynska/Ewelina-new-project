@@ -1,0 +1,62 @@
+@import "reset";
+@import "~bootstrap/scss/bootstrap";
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background: url("chocolate.jpg") center center no-repeat;
+  background-size: cover;
+
+}
+
+.container {
+  margin-top: 15vh;
+  border-radius: 3px;
+  width: 70vw;
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, .4);
+  color: antiquewhite;
+
+  h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 5em;
+  }
+
+  h2 {
+    margin: 1em auto;
+
+  }
+
+  .timer {
+    display: flex;
+    color: blue;
+
+    .timeBox {
+      margin: 0 .5em;
+      width: 10vw;
+      color: antiquewhite;
+      background: linear-gradient(#9198e5, #bc4d8a);
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      border-radius: 2px;
+      font-weight: 700;
+      font-size: xx-large;
+
+      p {
+        font-weight: 200;
+        font-size: x-small;
+      }
+    }
+  }
+}
